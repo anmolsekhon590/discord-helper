@@ -1,3 +1,4 @@
 .env
 messages.json
 .idea
+__pycache__
